@@ -6,5 +6,5 @@ O organo app é um aplicativo desenvolvido no curso de Reac da Alura, onde utili
 
 ## Acesse o Organo-App e teste no link abaixo
 
-[Organo-App] (https://organo-app-eta.vercel.app/)
+Organo-App -> https://organo-app-eta.vercel.app/
 
